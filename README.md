@@ -48,4 +48,4 @@ Para rodar os códigos deste repositório, você vai precisar do Java Developmen
    ```
 
 ---
-✉️ **Vamos nos conectar!** Meu perfil no [LinkedIn](SEU_LINK_DO_LINKEDIN_AQUI).
+✉️ **Vamos nos conectar!** Meu perfil no [LinkedIn](https://www.linkedin.com/in/jonatas-costa-5205011a3/).
